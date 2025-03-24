@@ -181,7 +181,7 @@ ul li, ol li {
     background: linear-gradient(to right, #ffffff, #e6f2ff);
 }
 
-.texte_5 {
+.texte_2 , .texte_5 {
     max-width: 800px;
     margin: 0 auto;
 }
